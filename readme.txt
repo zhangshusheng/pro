@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 git tracks changes.
 creating a new branch .
 creating another new branch AND simple.
-
+test --no-ff merge.
